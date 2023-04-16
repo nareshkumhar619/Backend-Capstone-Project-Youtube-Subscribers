@@ -42,6 +42,10 @@ chai-http
 ## SCRIPTS:
 npm start will start the server.
 
+## Deploy:
+https://backend-capstone-project-youtube-subscribers-naresh.vercel.app/
 
+## Docs :
+https://drive.google.com/file/d/1eB12r8qMBn_RJvMNN0ezwTUc_HZuBmjr/view?usp=sharing
 
 # Thank You.

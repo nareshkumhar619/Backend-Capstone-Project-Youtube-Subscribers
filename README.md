@@ -43,25 +43,5 @@ chai-http
 npm start will start the server.
 
 
-<<<<<<< HEAD
-DEPLOY:
-https://naresh-backend-capstone-project-youtube-subscribers.vercel.app/
-
-Video-link:
-https://drive.google.com/file/d/16y3bFniUtWhN7zFbZKVttzTX7Kfs5qjd/view?usp=drive
-sdk
-
-Docs-Link:
-=======
-## DEPLOY:
-https://naresh-backend-capstone-project-youtube-subscribers.vercel.app/
-
-## Video-link:
-https://drive.google.com/file/d/16y3bFniUtWhN7zFbZKVttzTX7Kfs5qjd/view?usp=drivesdk
-
-## Docs-Link:
->>>>>>> b5b50a6bf624e298b3d4e6fbfdf5d1bc437958e8
-https://drive.google.com/file/d/1vat_HkhzcsfIjTihdQbO6C99obTDEnUd/view?usp=sharing
-
 
 # Thank You.
